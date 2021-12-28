@@ -16,7 +16,7 @@ Kami berhasil mendapatkan Juara 1 pada Kompetisi GEMASTIK XIV Cabang Keamanan Si
 
 Untuk pengalaman saya sendiri, saya pertamakalinya mengikuti perlombaan CTF dengan format Attack & Defense pada Final GEMASTIK XIV. Meskipun begitu saya sudah sangat mempersiapkannya dikarenakan saya sudah sering menyelesaikan machine yang ada pada platform HackTheBox
 
-# Scoreboard
+## Scoreboard
 ![Scoreboard Hology 4.0](../../images/scoreboard_gemastik.png)
 
 ## Penyisihan GEMASTIK XIV
