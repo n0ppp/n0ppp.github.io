@@ -13,7 +13,7 @@ Saya disini akan membagikan Writeup dari tim saya ketika mengikuti perlombaan HO
 
 Kami berhasil mendapatkan Juara 1 pada Kompetisi HOLOGY 4.0 Capture The Flag
 ## Scoreboard
-![Scoreboard Hology 4.0](../../_site/assets/images/scoreboard_hology.png)
+![Scoreboard Hology 4.0](../../images/scoreboard_hology.png)
 
 ## Penyisihan HOLOGY 4.0
 Pada penyisihan menggunakan format Jeopardy. Writeup untuk penyisihan dapat dilihat pada link berikut ini:
