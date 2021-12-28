@@ -27,7 +27,7 @@ url: "https://n0ppp.github.io/" # the base hostname & protocol for your site, e.
 github_username:  n0ppp
 
 # Build settings
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
