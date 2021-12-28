@@ -17,6 +17,6 @@ Pada penyisihan menggunakan format Jeopardy. Writeup untuk penyisihan dapat dili
 [Penyisihan TED CTF](https://drive.google.com/file/d/158dvKK5_WoLtyAxNHRnQjA7MPgKTAO2Z/view?usp=sharing)
 
 ## Final TED CTF
-Pada Final menggunakan format Jeopardy. Writeup untuk penyisihan dapat dilihat pada link berikut ini:
+Pada Final menggunakan format Jeopardy. Writeup untuk final dapat dilihat pada link berikut ini:
 
 [FINAL TED CTF](https://drive.google.com/file/d/1Fr0KywblSVdkGr4siwU5baDHHIVwkHfo/view?usp=sharing)

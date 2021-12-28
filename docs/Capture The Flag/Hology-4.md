@@ -21,6 +21,6 @@ Pada penyisihan menggunakan format Jeopardy. Writeup untuk penyisihan dapat dili
 [Penyisihan HOLOGY 4.0](https://drive.google.com/file/d/1z6KQHThxGDCjrH8545LpT55tmhZVaIBg/view?usp=sharing)
 
 ## Final HOLOGY 4.0
-Pada Final menggunakan format Jeopardy. Writeup untuk penyisihan dapat dilihat pada link berikut ini:
+Pada Final menggunakan format Jeopardy. Writeup untuk final dapat dilihat pada link berikut ini:
 
 [FINAL HOLOGY 4.0](https://drive.google.com/file/d/1iR2UxpMLee2HN2TAra2SkWpPhJMronaI/view?usp=sharing)

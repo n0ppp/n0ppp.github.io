@@ -17,6 +17,6 @@ Pada penyisihan menggunakan format Jeopardy. Writeup untuk penyisihan dapat dili
 [Penyisihan Technofair 8.0](https://drive.google.com/file/d/1eVyF9O7SqB6tPKOVrsC3OAtCwrJhKN8M/view?usp=sharing)
 
 ## Final Technofair 8.0
-Pada Final menggunakan format Jeopardy. Writeup untuk penyisihan dapat dilihat pada link berikut ini:
+Pada Final menggunakan format Jeopardy. Writeup untuk final dapat dilihat pada link berikut ini:
 
 [FINAL Technofair 8.0](https://drive.google.com/file/d/102vlSuU_Sx0j-BZpdbEcWwvlHRLn37q4/view?usp=sharingg)
